@@ -3,4 +3,4 @@
 Link to the hackathon page : https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/ </br>
 
 Private Rank : 12 </br>
-Valication accuracy : 95.05%
+Validation accuracy : 95.05%
